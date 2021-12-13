@@ -1,0 +1,1 @@
+Create a program that accepts numbers through the cli counts how often each number occurs and prints the results in a list ordered by the input number

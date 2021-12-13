@@ -1,0 +1,1 @@
+Accept two strings and determine if the second is a substring of the first
